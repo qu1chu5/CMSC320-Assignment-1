@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to machine learning because models need high quality data at massive scale. For instance, Instagram needs data science to gather correctly formatted data about its users' following behavior. Using this data, it can feed clustering algorithms that can eventually learn to recommend new accounts to existing users.
