@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git allows developers to revert changes when there are issues with the codebase that must be undone.
