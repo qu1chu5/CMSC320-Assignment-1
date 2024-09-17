@@ -6,3 +6,10 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science can be applied to machine learning because models need high quality data at massive scale. For instance, Instagram needs data science to gather correctly formatted data about its users' following behavior. Using this data, it can feed clustering algorithms that can eventually learn to recommend new accounts to existing users.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging maintains the two branches' commit histories separately, which can be easier to follow and debug later. Rebasing takes all the commits from one branch and places them on top of the other's commit history, creating a single, linear branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: My data science skills and working with Python.
